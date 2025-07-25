@@ -1,3 +1,7 @@
 # Table of contents
 
-* [Page](README.md)
+* [Getting started](README.md)
+
+## Account
+
+* [Profile](account/profile.md)
